@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neha0825
 - 👀 I’m am computer Science Student with specialization in Internet of Things 
-- 🌱 I’m currently a student at Chandigarh University 
+- 🌱 I’m Graduate from Chandigarh University 
 
 
 <!---
